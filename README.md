@@ -56,21 +56,5 @@ I'm passionate about web development and currently building my skills through re
 
 ## 📬 Reach Me
 
-
-
 ## 📊 GitHub Stats
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ThyMuoyhak&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyMuoyhak&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThyMuoyhak&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Building the future of Khmer tech education, one commit at a time 🇰🇭</i>
-</p> -->
