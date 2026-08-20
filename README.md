@@ -24,7 +24,7 @@ I'm passionate about web development and currently building my skills through re
 
 ## 🛠️ Tech Stack
 
-**📖 Programming  I've Learned**
+**📖 Programming **
  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@ I'm passionate about web development and currently building my skills through re
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<P>Node.js i'm just learning for one_month </P>
+<!-- <P>Node.js i'm just learning for one_month </P> -->
 
 **Database**
 
